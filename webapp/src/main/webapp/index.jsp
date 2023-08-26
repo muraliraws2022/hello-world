@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter moible number" name="phone" id="phone" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="email"><b>Enter Email Address</b></label>
+    <input type="text" placeholder="Enter Email Address" name="email" id="email address" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
